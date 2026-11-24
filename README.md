@@ -1,2 +1,3 @@
 # AulaGit
-Pratica ao minicurso de git
+
+### 1- ESSE É O 1° COMMIT
